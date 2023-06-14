@@ -1,0 +1,29 @@
+.estado {
+    font-weight: bold;
+}
+
+.estado.no {
+    color: rgb(182, 0, 0);
+}
+
+.estado.en {
+    color: rgb(255, 165, 0);
+}
+
+.estado.finalizado {
+    color: green;
+}
+
+.estado.leído {
+    color: rgb(48, 135, 207);
+}
+
+.mapbox-container {
+    height: 400px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.table-separate {
+    margin-top: 20px;
+}
